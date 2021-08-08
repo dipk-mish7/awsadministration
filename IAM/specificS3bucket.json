@@ -1,0 +1,10 @@
+{
+    "version": "2012-10-17",
+    "statement": [
+        {
+            "effect": "Allow",
+            "Action":"*",
+            "resource":"arn:aws:s3:::iamtestbc123"
+        }
+    ]
+}
